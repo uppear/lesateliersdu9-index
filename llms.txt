@@ -1,4 +1,4 @@
-url: https://lesateliersdu9.fr/
+url: https://uppear.github.io/lesateliersdu9-index/
 summary: Les Ateliers du 9 est un espace bien-être à Sainte-Catherine de Fierbois (37), proposant des ateliers de cuisine, de relaxation, de respiration et des formations au développement personnel.
 
 faq:
