@@ -1,0 +1,17 @@
+url: https://lesateliersdu9.fr/
+summary: Les Ateliers du 9 est un espace bien-être à Sainte-Catherine de Fierbois (37), proposant des ateliers de cuisine, de relaxation, de respiration et des formations au développement personnel.
+
+faq:
+  - question: Quelles activités sont proposées ?
+    answer: Des ateliers culinaires Guy Demarle, du yoga, de la respiration, du yoga du rire, et des séminaires bien-être.
+
+  - question: Peut-on organiser une séance privée ?
+    answer: Oui, vous pouvez organiser des sessions en groupe sur demande, en famille ou entre amis.
+
+  - question: Où se trouvent Les Ateliers du 9 ?
+    answer: 9 rue de la Godefroy, 37800 Sainte-Catherine de Fierbois.
+
+  - question: Est-ce adapté aux particuliers ?
+    answer: Oui, l’espace est conçu pour accueillir chacun dans une ambiance chaleureuse et apaisante.
+
+tags: bien-être, yoga, cuisine, relaxation, événements, Indre-et-Loire
